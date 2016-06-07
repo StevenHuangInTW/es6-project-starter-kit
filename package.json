@@ -33,7 +33,7 @@
     "babel-plugin-transform-es2015-modules-umd": "^6.8.0",
     "babel-preset-es2015": "^6.9.0",
     "chai": "^3.5.0",
-    "chokidar": "^1.5.1",
+    "chokidar": "^1.5.2",
     "eslint": "^2.11.1",
     "karma": "^0.13.22",
     "karma-babel-preprocessor": "^6.0.1",
